@@ -1,0 +1,5 @@
+#: :sep=/\s/#:type=:flat
+#Start End
+N1 N2
+N2 N3 N4
+N4 N5
